@@ -1,4 +1,6 @@
-# Meteor.js - Clever Cloud Node.js ESM demo
+> **DEPRECATED**: This example is no longer maintained and is kept only for reference purposes.
+ 
+ # Meteor.js - Clever Cloud Node.js ESM demo
 
 This repository contains the Metor.js demo application source code (generated via `meteor create`), with scripts needed to deploy on Clever Cloud using the forked Node.js ESM (v14.21.4). It's based on [official documentation](https://guide.meteor.com/using-node-v14.21.4#installing-node-in-linux). 
 
